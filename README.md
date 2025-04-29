@@ -11,3 +11,4 @@ Go Programming Language
 4. [Go by Example](https://gobyexample.com/)
 5. [Studying the Go Packages with Claude](https://github.com/golang/go)
 6. Reading through Open Source Production Projects on Github
+7. [Go Style Guide Google](https://google.github.io/styleguide/go/)
